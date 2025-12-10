@@ -5,7 +5,7 @@ Hand gesture recognition is a significant area of research in computer vision an
 In conclusion, this real-time hand gesture recognition system offers a novel and secure method for accessing applications, websites, or links through personalized gesture signs. By combining computer vision and machine learning, the system provides a user- friendly and secure alternative to traditional methods, enhancing the overall usability of digital interfaces. It is designed especially for mute people who have hearing and talking disorder.
 
 
-# **System Requirements📌**
+# **📌System Requirements**
 
 For the completion of the project certain system requirements are needed.....
 
