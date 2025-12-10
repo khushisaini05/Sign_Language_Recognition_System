@@ -9,18 +9,28 @@ For the completion of the project certain system requirements are needed.
 
 
 Hardware Requirements:
+
 RAM: At least 2 GB
+
 Processor: Intel(R) core (TM) i3 or more
+
 Any external or internal web camera
+
 Internet connectivity: Yes (Broadband or Wi-Fi)
 
 
 Software Requirements:
+
 Text Editor (Visual Studio code)
+
 Operating System (Windows, MacOS)
+
 An Internet Browser (Google Chrome, Microsoft Edge etc)
+
 Google Teachable Machine
+
 Python
+
 Python libraries: NumPy, Pillow, TensorFlow, Keras, OpenCV, Math, Media Pipe, Tinker
 
 
@@ -30,6 +40,8 @@ Python libraries: NumPy, Pillow, TensorFlow, Keras, OpenCV, Math, Media Pipe, Ti
 
 
 <img width="720" height="211" alt="image" src="https://github.com/user-attachments/assets/4048b492-92bb-4950-846a-5e5dd86047b6" />
+
+
 
 #How it looks....
 
