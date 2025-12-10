@@ -4,34 +4,34 @@ Hand gesture recognition is a significant area of research in computer vision an
 
 In conclusion, this real-time hand gesture recognition system offers a novel and secure method for accessing applications, websites, or links through personalized gesture signs. By combining computer vision and machine learning, the system provides a user- friendly and secure alternative to traditional methods, enhancing the overall usability of digital interfaces. It is designed especially for mute people who have hearing and talking disorder.
 
-System Requirements...
+**System Requirements...**
 For the completion of the project certain system requirements are needed.
 
 
-Hardware Requirements:
+**Hardware Requirements:**
 
-RAM: At least 2 GB
+->RAM: At least 2 GB
 
-Processor: Intel(R) core (TM) i3 or more
+->Processor: Intel(R) core (TM) i3 or more
 
-Any external or internal web camera
+->Any external or internal web camera
 
-Internet connectivity: Yes (Broadband or Wi-Fi)
+->Internet connectivity: Yes (Broadband or Wi-Fi)
 
 
-Software Requirements:
+**Software Requirements:**
 
-Text Editor (Visual Studio code)
+->Text Editor (Visual Studio code)
 
-Operating System (Windows, MacOS)
+->Operating System (Windows, MacOS)
 
-An Internet Browser (Google Chrome, Microsoft Edge etc)
+->An Internet Browser (Google Chrome, Microsoft Edge etc)
 
-Google Teachable Machine
+->Google Teachable Machine
 
-Python
+->Python
 
-Python libraries: NumPy, Pillow, TensorFlow, Keras, OpenCV, Math, Media Pipe, Tinker
+->Python libraries: NumPy, Pillow, TensorFlow, Keras, OpenCV, Math, Media Pipe, Tinker
 
 
 #Flow Chart
@@ -40,6 +40,8 @@ Python libraries: NumPy, Pillow, TensorFlow, Keras, OpenCV, Math, Media Pipe, Ti
 
 
 <img width="720" height="211" alt="image" src="https://github.com/user-attachments/assets/4048b492-92bb-4950-846a-5e5dd86047b6" />
+
+
 
 
 
