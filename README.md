@@ -1,14 +1,16 @@
 # Sign Language Recognition System
 
-Hand gesture recognition is a significant area of research in computer vision and human- computer interaction (HCI). It aims to develop a vision-based hand gesture recognition system that can be applied in a wide range of HCI applications. This project uses real-time hand gesture detection, introducing an innovative approach for recognition and the user interface interaction. The system leverages computer vision and machine learning techniques to interpret unique hand gesture patterns, providing a secure and intuitive means for users to access digital content. The three primary parts of the suggested system are gesture categorization, feature extraction, and hand detection. To ensure that the system responds to dynamic actions, an effective deep learning- based hand detection algorithm is used to identify and track the user's hand in real-time to capture the sign language. Subsequently, the system extracts distinctive features from the hand movements to construct a unique gesture sign associated with user. The real-time nature of the approach ensures a seamless and efficient user experience, making it suitable for a variety of applications and it can be used to tackle the difficulties faced by hearing impairment. 
+Hand gesture recognition is a significant area of research in computer vision and human- computer interaction (HCI). It aims to develop a vision-based hand gesture recognition system that can be applied in a wide range of HCI applications. This project uses real-time hand gesture detection, introducing an innovative approach for recognition and the user interface interaction. The system leverages computer vision and machine learning techniques to interpret unique hand gesture patterns, providing a secure and intuitive means for users to access digital content. The three primary parts of the suggested system are gesture categorization, feature extraction, and hand detection. To ensure that the system responds to dynamic actions, an effective deep learning- based hand detection algorithm is used to identify and track the user's hand in real-time to capture the sign language. 
 
 In conclusion, this real-time hand gesture recognition system offers a novel and secure method for accessing applications, websites, or links through personalized gesture signs. By combining computer vision and machine learning, the system provides a user- friendly and secure alternative to traditional methods, enhancing the overall usability of digital interfaces. It is designed especially for mute people who have hearing and talking disorder.
 
-**System Requirements...**
-For the completion of the project certain system requirements are needed.
+
+# **System Requirements📌**
+
+For the completion of the project certain system requirements are needed.....
 
 
-**Hardware Requirements:**
+**✨Hardware Requirements:**
 
 ->RAM: At least 2 GB
 
@@ -19,7 +21,7 @@ For the completion of the project certain system requirements are needed.
 ->Internet connectivity: Yes (Broadband or Wi-Fi)
 
 
-**Software Requirements:**
+**✨Software Requirements:**
 
 ->Text Editor (Visual Studio code)
 
@@ -34,7 +36,9 @@ For the completion of the project certain system requirements are needed.
 ->Python libraries: NumPy, Pillow, TensorFlow, Keras, OpenCV, Math, Media Pipe, Tinker
 
 
-#Flow Chart
+
+
+# **🎯Structure of Project**
 
 
 
@@ -45,7 +49,13 @@ For the completion of the project certain system requirements are needed.
 
 
 
-#How it looks....
+
+
+
+
+
+
+# **🚀How it looks....**
 
 
 
